@@ -23,4 +23,4 @@ Dynamic Slicers: Instant multi-attribute filtering by Outlet Location, Size, and
 Cross-Filtering Canvas: Re-evaluates ratings, categories, and metrics on any click.
 Multi-Metric Toggles: Quick switching between Total Sales, Avg Sales, No. of Items, and Avg Rating.
 
-Dashboard screenshot:
+
